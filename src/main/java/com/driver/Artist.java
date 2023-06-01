@@ -30,4 +30,5 @@ public class Artist {
     public void setLikes(int likes) {
         this.likes = likes;
     }
+
 }
